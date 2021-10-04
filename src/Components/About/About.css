@@ -1,0 +1,49 @@
+.about{
+    background-color: #3D087B;
+    width: 100%;
+}
+.pink{
+    color: #F43B86;
+}
+@keyframes typing {
+    from {
+        width: 0ch;
+    }
+    to {
+        width: 25ch;
+    }
+}
+.typing h2{
+
+    width: 0ch;
+    color: #F43B86;
+    float: left;
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size: 60px;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 15s 1s  forwards;
+}
+.fit{
+    margin-left: -22px;
+    padding-left: 4px;
+}
+.mission{
+    height: 900px;
+    background-image:url('https://images.unsplash.com/photo-1447078806655-40579c2520d6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHRyYW5zcGFyZW50JTIwZm9vZCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+    ;
+}
+.yelow{
+   color:  #FFE459;
+}
+.box{
+    background-color: rgba(0, 0, 0, 0.850);
+    margin:5px 10px 20px;
+    width: 800px;
+    height: 300px;
+
+}

@@ -1,0 +1,137 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "Indian",
+        "name": "Indian Cuisine",
+        "price": 200,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/indian.jpg",
+        "description": "Staple foods of Indian cuisine include pearl millet (bājra), rice, whole-wheat flour (aṭṭa), and a variety of lentils, such as masoor (most often red lentils), tuer (pigeon peas), urad (black gram), and moong (mung beans). Lentils may be used whole, dehusked—for example, dhuli moong or dhuli urad—or split."
+    },
+    {
+        "key": "B01LD4MGY4",
+        "category": "Western",
+        "name": "Western Cuisine",
+        "price": 500,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/western.png",
+        "description": "From fermenting and pickling produce to curing fish, the definition of western cuisine is once more undergoing a makeover and emerging with a wider range of ingredients, styles and techniques than it had before. Apart from these, technology is also part of reasons to change what western food is."
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "category": "Korean",
+        "name": "Korean Cuisine",
+        "price": 300,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/korean.jpg",
+        "description": "A typical Korean meal consists of a bowl of rice, a bowl of soup or stew, and some side dishes as accompaniments. ... Koreans may have numerous ways to pickle vegetables and wild greens for long storage, but they also prize raw fish and raw meat dishes.Jul 19, 2021"
+    },
+    {
+        "key": "B01M18UZF5",
+        "category": "German",
+        "name": "German Cuisine",
+        "price": 400,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/German.png",
+        "description": "German traditional food and drink is almost certainly more exciting than most new residents and visitors expect it to be. Whilst there are regional variations in food culture, most German recipes focus heavily on bread, potatoes, and meat, especially pork, as well as plenty of greens such as types of cabbage and kale. Cake, coffee, and beer are all highly popular elements of German cuisine too - which will be good news to most! "
+    },
+    {
+        "key": "B01K1IO3QW",
+        "category": "Indian",
+        "name": "Biryani",
+        "price": 322,
+        "duration": "33 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/6.png",
+        "description": "Staple foods of Indian cuisine include pearl millet (bājra), rice, whole-wheat flour (aṭṭa), and a variety of lentils, such as masoor (most often red lentils), tuer (pigeon peas), urad (black gram), and moong (mung beans). Lentils may be used whole, dehusked—for example, dhuli moong or dhuli urad—or split."
+    },
+    {
+        "key": "B01DBGVB7K",
+        "category": "Italian",
+        "name": "Pizza",
+        "price": 220,
+        "duration": "40 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/11.jpg",
+        "description": "Roman pizza has a thin, crisp crust and is bursting with flavor. It is cooked for just a few minutes in a very, very hot oven.We work with importers and leading suppliers of produce to ensure that our customers get the best pizza in town."
+    },
+    {
+        "key": "B015WXL0C6",
+        "category": "Mexico",
+        "name": "Tacos",
+        "price": 670,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/10.jpg",
+        "description": "A taco can be made with a variety of fillings, including beef, pork, chicken, seafood, beans, vegetables, and cheese, allowing for great versatility and variety. They are often garnished with various condiments, such as salsa, guacamole, or sour cream, and vegetables, such as lettuce, onion, tomatoes, and chiles."
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "category": "Bangla",
+        "name": "Golap Jamun",
+        "price": 350,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/2.jpg",
+        "description": "Gulab jamun mix refers to a blend of ingredients, which are necessary to prepare an Indian sweet called gulab jamun. The Gulab jamun mix comprises of skimmed milk, maida, butter, rava, baking soda and cardamom. They are available in the market under many brand names."
+    },
+    {
+        "key": "B06XJJG4PD",
+        "category": "Korean",
+        "name": "Ramen",
+        "price": 577,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/4.png",
+        "description": "Instant noodles are dehydrated noodles that are packed with preservatives and come with dehydrated vegetables in a cup along with a packet of seasoning. ... Ramen is made of hand-pulled wheat noodles and is a traditional Japanese noodle soup."
+    },
+    {
+        "key": "B01NBE6Y5D",
+        "category": "Bangla",
+        "name": "DAL PURI",
+        "price": 177,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/5.png",
+        "description": "There are two types of Dhal Puri (In my opinion). The one my mom made at home and the ones that you bought from street vendors. My mom's dhal puri was delicious when freshly made but somehow it got really stiff once it cooled. It was also never paper thin and as soft of the street vendor's. Dhal puris from street vendors were paper thin and stuffed with the right amount of peas. And all they ever needed were hot mango sour! That's the kind of dhal puri I strived to make and that's the recipe I am sharing with you today!"
+    },
+    {
+        "key": "B01J42JPJG",
+        "category": "Indian",
+        "name": "Malai Tikka",
+        "price": 427,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/7.png",
+        "description": "Hindi"
+    },
+    {
+        "key": "B01F4ZG68A",
+        "category": "Western",
+        "name": "Tomato Pasta",
+        "price": 437,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/3.png",
+        "description": "Spaghetti is the most popular of all the pasta types. It is the favorite of many, especially kids. Indeed, this is one of the most frequently cooked pasta worldwide. It is also usually available in most restaurants."
+    },
+    {
+        "key": "B01D27ERMO",
+        "category": "Korean",
+        "name": "Kimchi",
+        "price": 330,
+        "duration": "27 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/12.jpg",
+        "description": "The main flavor notes you'll find in kimchi include sour, spicy, and umami. The flavor will also vary depending on the vegetables you choose, the length of fermentation, and the amount of salt or sugar used. Because kimchi is a fermented dish, its most prominent flavor is typically sour."
+    },
+    {
+        "key": "B06X6J2RLY",
+        "category": "Western",
+        "name": "Fruit Cake",
+        "price": 282,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/8.png",
+        "description": "This fruit cake recipe features their All-Clad Pro-Release Loaf Pan. All of the All-Clad Pro-Release bakeware pieces feature oversized, easy-to-grab handles, and a nonstick (PFOA-free) finish that releases baked goods effortlessly.This fruit cake batter is sticky and packed with dried fruit pieces, which means that it can be prone to sticking, and thanks to the ceramic, easy release coating, I didn’t have to grease or line the loaf pan with parchment paper. The fruit cakes just slid out without issue. The holidays are hectic enough without worrying about your baked goods sticking!"
+    },
+    {
+        "key": "B01N5G5PG2",
+        "category": "Western",
+        "name": "Fruit Delight",
+        "price": 782,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/1.png",
+        "description": "Common ingredients used in fruit salads include strawberries, pineapple, honeydew, watermelon, grapes, and kiwifruit. Various recipes may call for the addition of nuts, fruit juices, certain vegetables, yogurt, or other ingredients."
+    }
+]

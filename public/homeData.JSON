@@ -3,8 +3,9 @@
         "key": "B002RL8IYK",
         "category": "Indian",
         "name": "Indian Cuisine",
-        "Price": 200,
-        "img": "https://drive.google.com/file/d/1EuVaw_aO0sM0_TbCCsMXDTSSHCKAuhZu/view?usp=sharing",
+        "price": 200,
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/indian.jpg",
         "description": "Staple foods of Indian cuisine include pearl millet (bājra), rice, whole-wheat flour (aṭṭa), and a variety of lentils, such as masoor (most often red lentils), tuer (pigeon peas), urad (black gram), and moong (mung beans). Lentils may be used whole, dehusked—for example, dhuli moong or dhuli urad—or split."
     },
     {
@@ -12,15 +13,17 @@
         "category": "Western",
         "name": "Western Cuisine",
         "price": 500,
-        "img": "https://drive.google.com/file/d/1xzB6a2UtXqypOXgF-idNCSMazbzz_KEK/view?usp=sharing",
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/western.png",
         "description": "From fermenting and pickling produce to curing fish, the definition of western cuisine is once more undergoing a makeover and emerging with a wider range of ingredients, styles and techniques than it had before. Apart from these, technology is also part of reasons to change what western food is."
     },
     {
         "key": "B01LZ2WZGH",
         "category": "Korean",
         "name": "Korean Cuisine",
-        "hiringCost": 300,
-        "img": "https://drive.google.com/file/d/1fN9Nyc49k_n3r2anotqNzqA21I9atBZQ/view?usp=sharing",
+        "price": 300,
+        "duration": "30d Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/korean.jpg",
         "description": "A typical Korean meal consists of a bowl of rice, a bowl of soup or stew, and some side dishes as accompaniments. ... Koreans may have numerous ways to pickle vegetables and wild greens for long storage, but they also prize raw fish and raw meat dishes.Jul 19, 2021"
     },
     {
@@ -28,7 +31,8 @@
         "category": "German",
         "name": "German Cuisine",
         "price": 400,
-        "img": "https://drive.google.com/file/d/1ltnFgXAUqK_JVfhHfnY3XnWP-gERN-GH/view?usp=sharing",
+        "duration": "30 Days",
+        "img": "https://raw.githubusercontent.com/sifat18/petProjects/main/images/German.png",
         "description": "German traditional food and drink is almost certainly more exciting than most new residents and visitors expect it to be. Whilst there are regional variations in food culture, most German recipes focus heavily on bread, potatoes, and meat, especially pork, as well as plenty of greens such as types of cabbage and kale. Cake, coffee, and beer are all highly popular elements of German cuisine too - which will be good news to most! "
     }
 ]
