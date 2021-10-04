@@ -1,0 +1,27 @@
+.greeting{
+    background-color:#F2AA4CFF; 
+ }
+ 
+ 
+   .slide-right{
+     width: 100%;
+     overflow: hidden;
+   }
+   .slide-right h2{
+       animation: slide-right 4s ease-in-out 5s infinite forwards;
+       transform:translateX(-100%);
+   }
+   
+   @keyframes slide-right {
+     to {
+       transform:translateX(0);
+     }
+   }
+   .Carousel{
+       margin-right: -12px;
+   }
+   .CarouselImg{
+     width: auto;
+     height: 600px;
+     /* max-height: 225px; */
+   }
