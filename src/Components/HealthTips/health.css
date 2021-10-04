@@ -1,0 +1,7 @@
+/* background image for health */
+.backgroungImg{
+    background-image: url('https://media.istockphoto.com/photos/two-men-exercising-picture-id1293388093?b=1&k=20&m=1293388093&s=170667a&w=0&h=zToDtkVlVxFCO-w0SbtvAHML71GNiJKCfX09FBlof3g=');
+background-position: center;
+background-size: contain;
+width: 100%;
+}

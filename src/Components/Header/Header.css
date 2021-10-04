@@ -1,6 +1,8 @@
+/* link style */
 .header a{
     text-decoration: none;
 }
+/* logo style */
 .logo{
     display: flex;
     justify-content: center;

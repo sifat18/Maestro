@@ -13,9 +13,11 @@ import Health from './Components/HealthTips/Health';
 function App() {
   return (
     <div className="App">
+      {/* router container */}
       <BrowserRouter>
+        {/* nav links */}
         <Header></Header>
-
+        {/* setting routes */}
         <Switch>
           <Route exact path='/'>
             <Home></Home>

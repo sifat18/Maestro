@@ -1,8 +1,9 @@
+/* top background */
 .greeting{
     background-color:#F2AA4CFF; 
  }
  
- 
+ /* animation top text and styles */
    .slide-right{
      width: 100%;
      overflow: hidden;
@@ -17,6 +18,7 @@
        transform:translateX(0);
      }
    }
+   /* carousel styles */
    .Carousel{
        margin-right: -12px;
    }

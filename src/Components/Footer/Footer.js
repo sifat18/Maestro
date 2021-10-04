@@ -1,9 +1,12 @@
 import React from 'react';
+// importing react componets
 import { Col, Container, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+// custom css
 import './Footer.css'
 const Footer = () => {
     return (
+        // footer header style
         <Row className='rong'>
             <h1 style={{
                 color: "#12a4d9 ",
@@ -13,8 +16,10 @@ const Footer = () => {
             }}>
                 Maestro of Culinary Arts
             </h1>
+            {/* links segments container */}
             <Container className='foot-margin'>
                 <Row>
+                    {/* About segments */}
                     <Col>
                         <h4>About Us</h4>
                         <Link to="#"><p>Aim</p></Link>
@@ -22,20 +27,23 @@ const Footer = () => {
                         <Link to="#"><p>Testimonials</p></Link>
                     </Col>
                     <Col>
+                        {/* services */}
                         <h4>Services</h4>
-                        <Link to="#"><p>Writing</p></Link>
-                        <Link to="#"><p>Internships</p></Link>
-                        <Link to="#"><p>Coding</p></Link>
-                        <Link to="#"><p>Teaching</p></Link>
+                        <Link to="#"><p>Western Cooking Lessons</p></Link>
+                        <Link to="#"><p>Korean Cooking Lessons</p></Link>
+                        <Link to="#"><p>Indian Cooking Lessons</p></Link>
+                        <Link to="#"><p>Mexican Cooking Lessons</p></Link>
                     </Col>
                     <Col>
+                        {/* contact-us */}
                         <h4>Contact Us</h4>
-                        <Link to="#"><p>Uttar Pradesh</p></Link>
-                        <Link to="#"><p>Ahemdabad</p></Link>
-                        <Link to="#"><p>Indore</p></Link>
-                        <Link to="#"><p>Mumbai</p></Link>
+                        <Link to="#"><p>UK</p></Link>
+                        <Link to="#"><p>USA</p></Link>
+                        <Link to="#"><p>KOREA</p></Link>
+                        <Link to="#"><p>GERMANY</p></Link>
                     </Col>
                     <Col>
+                        {/* social-media */}
                         <h4>Social Media</h4>
                         <Link to="#"><p>
                             <i className="fab fa-facebook-f">

@@ -1,0 +1,43 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Do not skip breakfast",
+        "img": "https://images.unsplash.com/photo-1525351484163-7529414344d8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnJlYWtmYXN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "recipie": "https://www.nhs.uk/live-well/eat-well/healthy-breakfasts-recipes/",
+        "description": "Skipping breakfast will not help you lose weight. You could miss out on essential nutrients and you may end up snacking more throughout the day because you feel hungry."
+    },
+    {
+        "key": "B01LD4MGY4",
+        "name": "Eat regular meals",
+        "img": "https://images.unsplash.com/photo-1573836469309-6c5d4de9870b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVndWxhciUyMG1lYWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "recipie": "https://www.nhs.uk/live-well/eat-well/",
+        "description": "Eating at regular times during the day helps burn calories at a faster rate. It also reduces the temptation to snack on foods high in fat and sugar."
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "name": "Eat plenty of fruit and veg",
+        "img": "https://media.istockphoto.com/photos/timeline-of-eating-an-apple-picture-id108535753?b=1&k=20&m=108535753&s=170667a&w=0&h=2ytLWbTugErE8GsLf2GT_hVsyNR623gwE36US48X3nQ=",
+        "recipie": "https://www.nhs.uk/live-well/eat-well/5-a-day-what-counts/",
+        "description": "Fruit and veg are low in calories and fat, and high in fibre – 3 essential ingredients for successful weight loss. They also contain plenty of vitamins and minerals."
+    },
+    {
+        "key": "B01M18UZF5",
+        "name": "Drink plenty of water",
+        "img": "https://media.istockphoto.com/photos/sportswoman-in-headphones-holding-a-plastic-bottle-picture-id1253139000?b=1&k=20&m=1253139000&s=170667a&w=0&h=YKM7Ikv8PtWtElgMMSUNBry4vESf__PIqYHauYlYCRE=",
+        "recipie": "https://www.nhs.uk/live-well/eat-well/water-drinks-nutrition/",
+        "description": "People sometimes confuse thirst with hunger. You can end up consuming extra calories when a glass of water is really what you need. "
+    },
+    {
+        "key": "B01K1IO3QW",
+        "name": "Read food labels",
+        "img": "https://media.istockphoto.com/photos/couple-choosing-jar-of-jam-picture-id1091215168?b=1&k=20&m=1091215168&s=170667a&w=0&h=8WiARk8fugJGJku0K19gKIXryEkEcRQstca7upKtJ2o=",
+        "recipie": "https://www.nhs.uk/live-well/eat-well/how-to-read-food-labels/",
+        "description": "Knowing how to read food labels can help you choose healthier options. Use the calorie information to work out how a particular food fits into your daily calorie allowance on the weight loss plan."
+    },
+    {
+        "key": "B01DBGVB7K",
+        "name": "Do not stock junk food",
+        "img": "https://media.istockphoto.com/photos/blur-image-of-shelf-with-consumer-product-shop-in-supermarket-picture-id1040444624?b=1&k=20&m=1040444624&s=170667a&w=0&h=VR2nnJ2mbGU7uMWmuOmZDVxOBbIQ5NeSLkLKzkr2mU8=",
+        "description": "To avoid temptation, do not stock junk food – such as chocolate, biscuits, crisps and sweet fizzy drinks – at home. Instead, opt for healthy snacks, such as fruit, unsalted rice cakes, oat cakes, unsalted or unsweetened popcorn, and fruit juice."
+    }
+]

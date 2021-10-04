@@ -1,10 +1,14 @@
 import React from 'react';
+// importing react componets
 import { Col, Container, Row } from 'react-bootstrap';
+// custom css
 import './About.css'
+// setting picture url
 import chef from '../../images/about1.png'
 const About = () => {
     return (
         <Container fluid className='about'>
+            {/* About us starter */}
             <Row className='row1'>
                 <Col className='fit'>
                     <img src={chef} alt="" className='img-fluid w-100 h-100' />
@@ -21,6 +25,7 @@ const About = () => {
                 </Col>
 
             </Row>
+            {/* middle part  */}
             <Row className='d-flex justify-content-center align-items-center mission h-100 pt-3'>
                 <div className='box'>
                     <h2 className='text-center py-5 ms-5 fs-3 fw-bolder yelow '>

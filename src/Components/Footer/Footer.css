@@ -1,15 +1,19 @@
+/* background footer */
 .rong{
     background-color: #322e2f;
     margin: 0;
     width: 100%;
     overflow: hidden;
 }    
+/* margins */
 .foot-margin{
     margin: 10px 20px 0px 60px;
 }
+/* h4 styles */
 h4{
     color: #12a4d9 ;
 }
+/* all link styles */
 .rong a{
     color: #12a4d9 ;
     text-decoration: none;

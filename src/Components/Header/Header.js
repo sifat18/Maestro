@@ -1,12 +1,16 @@
 import React from 'react';
+// logo
 import chef from '../../images/chef-hat-clothing-logo-by-Vexels.svg'
+// react components 
 import { Container, Nav, Navbar } from 'react-bootstrap';
+// custom css
 import './Header.css'
 import { NavLink } from 'react-router-dom';
 const Header = () => {
     return (
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
             <Container className='header'><NavLink to='/home'>
+                {/* display logo */}
                 <Navbar.Brand className='logo'><img
                     src={chef}
                     width="50"
@@ -16,6 +20,7 @@ const Header = () => {
                 /> Maestro of Culinary </Navbar.Brand></NavLink>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
+                    {/* other links */}
                     <Nav className="ms-auto">
                         <NavLink to="/home"> <Nav.Link href='/home'>Home</Nav.Link></NavLink>
                         <NavLink to="/about"> <Nav.Link href='/about'>About</Nav.Link></NavLink>

@@ -1,10 +1,13 @@
+/* setting background color for the top part */
 .about{
     background-color: #3D087B;
     width: 100%;
 }
+/* top text color */
 .pink{
     color: #F43B86;
 }
+/* animation top text */
 @keyframes typing {
     from {
         width: 0ch;
@@ -25,10 +28,12 @@
     white-space: nowrap;
     animation: typing 15s 1s  forwards;
 }
+/* image positioning  */
 .fit{
     margin-left: -22px;
     padding-left: 4px;
 }
+/* middle part image  */
 .mission{
     height: 900px;
     background-image:url('https://images.unsplash.com/photo-1447078806655-40579c2520d6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHRyYW5zcGFyZW50JTIwZm9vZCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60');
@@ -37,9 +42,11 @@ background-position: center;
 background-repeat: no-repeat;
     ;
 }
+/* middle text color  */
 .yelow{
    color:  #FFE459;
 }
+/* middle part text display style in box */
 .box{
     background-color: rgba(0, 0, 0, 0.850);
     margin:5px 10px 20px;
