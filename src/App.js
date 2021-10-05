@@ -9,6 +9,7 @@ import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
 import Services from './Components/Services/Services';
 import Health from './Components/HealthTips/Health';
+import Details from './Components/Details/Details';
 
 function App() {
   return (
@@ -28,12 +29,16 @@ function App() {
           <Route path='/about'>
             <About></About>
           </Route>
+          <Route path='/service/:id'>
+            <Details></Details>
+          </Route>
           <Route path='/service'>
             <Services></Services>
           </Route>
           <Route path='/health'>
             <Health></Health>
           </Route>
+
           <Route path='*'>
             <ErrorPage></ErrorPage>
           </Route>

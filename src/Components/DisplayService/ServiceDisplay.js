@@ -2,11 +2,11 @@ import React from 'react';
 // custom css
 import './ServiceDisplay.css'
 // react components
-import { Card, Col } from 'react-bootstrap';
+import { Button, Card, Col } from 'react-bootstrap';
 
 const ServiceDisplay = (props) => {
     // destructuring
-    const { category, duration, img, name, price, description } = props.data;
+    const { key, category, duration, img, name, price, description } = props.data;
     return (
         <Col >
             <Card className='zoom'>
@@ -19,6 +19,7 @@ const ServiceDisplay = (props) => {
                     <Card.Text>{description.slice(0, 100)}...</Card.Text>
                     <Card.Text><h3 className='fs-3 fw-bold'>Price: ${price}</h3></Card.Text>
                     <Card.Text><h5 className='fs-3 fw-bold'>Duration: {duration}</h5></Card.Text>
+                    <Button variant='warning' onClick={() => props.click(key)}>Details</Button>
                 </Card.Body>
             </Card>
         </Col>

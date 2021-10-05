@@ -2,9 +2,9 @@
 ## Want to Master Culinary Arts??
 Then you have come to the just the right place!!! visit us here [Maestro](https://infallible-ptolemy-4de16f.netlify.app/home) 
 # Curious about the services you will be getting?
--Varity of cuisines are offered for teaching 
--Western to Asian, spicy to sweet, junk to healthy choose your lesson today!!!
--Health tips as a bonus 
+- Varity of cuisines are offered for teaching 
+- Western to Asian, spicy to sweet, junk to healthy choose your lesson today!!!
+- Health tips as a bonus 
 
 ## Available Scripts
 
