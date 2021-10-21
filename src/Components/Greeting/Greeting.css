@@ -27,3 +27,12 @@
      height: 600px;
      /* max-height: 225px; */
    }
+   @media (max-width:650px) {
+     .Carousel{
+      margin: 0;
+      padding: 0;
+
+
+     }
+     
+   }

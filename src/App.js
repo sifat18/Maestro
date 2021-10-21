@@ -1,4 +1,8 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+// animation
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
 // react-bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
@@ -12,6 +16,9 @@ import Health from './Components/HealthTips/Health';
 import Details from './Components/Details/Details';
 
 function App() {
+  useEffect(() => {
+    AOS.init();
+  })
   return (
     <div className="App">
       {/* router container */}

@@ -20,13 +20,13 @@ const Footer = () => {
             <Container className='foot-margin'>
                 <Row>
                     {/* About segments */}
-                    <Col>
+                    <Col xs={12} md={3}>
                         <h4>About Us</h4>
                         <Link to="/home"><p>Aim</p></Link>
                         <Link to="/home"><p>Vision</p></Link>
                         <Link to="/home"><p>Testimonials</p></Link>
                     </Col>
-                    <Col>
+                    <Col xs={12} md={3}>
                         {/* services */}
                         <h4>Services</h4>
                         <Link to="/home"><p>Western Cooking Lessons</p></Link>
@@ -34,7 +34,7 @@ const Footer = () => {
                         <Link to="/home"><p>Indian Cooking Lessons</p></Link>
                         <Link to="/home"><p>Mexican Cooking Lessons</p></Link>
                     </Col>
-                    <Col>
+                    <Col xs={12} md={3}>
                         {/* contact-us */}
                         <h4>Contact Us</h4>
                         <Link to="/home"><p>UK</p></Link>

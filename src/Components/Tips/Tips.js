@@ -9,9 +9,9 @@ const Tips = (props) => {
         // row in different segments
         <Row className='d-flex justify-content-center align-items-center rowColor w-100 py-4 my-3 mx-auto '>
             {/* img segment */}
-            <Col className='p-3 '><img src={img} alt="" /></Col>
+            <Col xs={12} md={6} className='p-3 '><img className='img-fluid' src={img} alt="" /></Col>
             {/* detail segment */}
-            <Col className='text-center mx-auto'>
+            <Col xs={12} md={6} className='text-center mx-auto'>
                 <h2 className='mb-5 fs-1 fw-bold'>{name}</h2>
                 <p className='mb-5 fs-4'>{description}</p>
                 {/* display button if reciepe data available */}

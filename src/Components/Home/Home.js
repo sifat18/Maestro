@@ -10,7 +10,7 @@ const Home = () => {
     const [homeData, sethomeData] = useState([])
     // getting home display data
     useEffect(() => {
-        fetch('./homeData.JSON').then(res => res.json()).then(data => sethomeData(data))
+        fetch('/homeData.JSON').then(res => res.json()).then(data => sethomeData(data))
     }, [])
     const history = useHistory();
     const handleClick = key => {
